@@ -1,8 +1,7 @@
 {
-"name":"sakakibara[1JPN]#2835",
-"ticker":"1JPN",
-"discordId":"748509441133117441",
-"pool-list":"true",
-"poolMetaData":"https://raw.githubusercontent.com/sakakibaraakio/a/master/poolMetaData.json",
-"validation":"https://raw.githubusercontent.com/sakakibaraakio/a/master/sjg-validation.json"
+"name": "日本壱プール",
+"description": "日本の人から送る壱パーセント手数料のプールです。クラウドサーバーにて運営しています。",
+"ticker": "1JPN",
+"homepage": "https://twitter.com/sakakibara1JPN",
+"extended": "https://raw.githubusercontent.com/sakakibaraakio/a/master/extendedMeta.json"
 }
